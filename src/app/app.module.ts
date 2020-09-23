@@ -5,8 +5,9 @@ import { AppComponent } from './app.component';
 import { NavigationComponent } from './navigation/navigation.component';
 import { NotFoundComponent } from './not-found/not-found.component';
 import { NotesComponent } from './notes/notes.component';
-import {Router, RouterModule, Routes} from '@angular/router';
+import { RouterModule, Routes} from '@angular/router';
 import { FeedBackComponent } from './feed-back/feed-back.component';
+
 
 const appRoutes: Routes = [
   {
@@ -34,7 +35,7 @@ const appRoutes: Routes = [
     NavigationComponent,
     NotFoundComponent,
     NotesComponent,
-    FeedBackComponent
+    FeedBackComponent,
   ],
   imports: [
     BrowserModule,
