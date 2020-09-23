@@ -16,6 +16,7 @@ export class FeedBackComponent implements OnInit {
 
   constructor(private http: HttpClient) {
 
+
   }
 
   sendFeedback(): void{
