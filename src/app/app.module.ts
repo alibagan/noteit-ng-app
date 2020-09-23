@@ -3,10 +3,10 @@ import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
 import { NavigationComponent } from './navigation/navigation.component';
-import { FeedbackComponent } from './feedback/feedback.component';
 import { NotFoundComponent } from './not-found/not-found.component';
 import { NotesComponent } from './notes/notes.component';
 import {Router, RouterModule, Routes} from '@angular/router';
+import { FeedBackComponent } from './feed-back/feed-back.component';
 
 const appRoutes: Routes = [
   {
@@ -15,7 +15,7 @@ const appRoutes: Routes = [
   },
   {
     path: 'feedback',
-    component: FeedbackComponent
+    component: FeedBackComponent
   },
   {
     path: '',
@@ -32,9 +32,9 @@ const appRoutes: Routes = [
   declarations: [
     AppComponent,
     NavigationComponent,
-    FeedbackComponent,
     NotFoundComponent,
-    NotesComponent
+    NotesComponent,
+    FeedBackComponent
   ],
   imports: [
     BrowserModule,
