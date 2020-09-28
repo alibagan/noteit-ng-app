@@ -1,4 +1,7 @@
 import { Component, OnInit } from '@angular/core';
+import {Notebook} from './model/notebook';
+import {HttpClient} from '@angular/common/http';
+import {ApiService} from '../shared/api.service';
 
 @Component({
   selector: 'app-notes',
@@ -7,9 +10,23 @@ import { Component, OnInit } from '@angular/core';
 })
 export class NotesComponent implements OnInit {
 
-  constructor() { }
+  notebooks: Notebook[] = [];
+
+  constructor(private apiService: ApiService) { }
 
   ngOnInit(): void {
+    this.getAllNotebooks();
+  }
+
+  public getAllNotebooks(){
+    this.apiService.getAllNotebooks().subscribe(
+      res => {
+        this.notebooks = res;
+      },
+      err => {
+        alert("An error has occured;")
+      }
+    );
   }
 
 }
