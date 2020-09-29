@@ -51,6 +51,7 @@ export class NotesComponent implements OnInit {
       res =>{},
       err => {
         alert("you have an error !!!")
+
       }
     );
   }
