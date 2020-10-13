@@ -1,0 +1,17 @@
+<div  class="card bg-warning" style="border: 4px solid white;">
+  <div class="card-body" style="padding: 8px; margin-top: 8px;">
+    <div>
+      <!-- title  -->
+      <input (change)="updateNote()" [(ngModel)]="note.title" type="text" class="input-label-lg" maxlength="18" style="width: 80%">
+      <a (click)="deleteNote()" class="pull-right text-danger">
+        <i class="fa fa-trash"></i>
+      </a>
+    </div>
+    <!-- text -->
+    <textarea (change)="updateNote()" class="input-label" style="width: 100%" rows="6" [(ngModel)]="note.text">
+          </textarea>
+    <strong class="text-info" style="font-size: small">
+      <!-- will add date when we learn about pips -->
+    </strong>
+  </div>
+</div>

@@ -9,6 +9,7 @@ import { RouterModule, Routes} from '@angular/router';
 import { FeedBackComponent } from './feed-back/feed-back.component';
 import {FormsModule} from '@angular/forms';
 import {HttpClientModule} from '@angular/common/http';
+import { NoteComponent } from './notes/note/note.component';
 
 
 const appRoutes: Routes = [
@@ -38,6 +39,7 @@ const appRoutes: Routes = [
     NotFoundComponent,
     NotesComponent,
     FeedBackComponent,
+    NoteComponent,
   ],
   imports: [
     BrowserModule,
