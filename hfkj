@@ -1,0 +1,107 @@
+[33mcommit 2ff37f7e503327af080fe93870e133b401079888[m[33m ([m[1;36mHEAD -> [m[1;32m18_complex_angular_components[m[33m)[m
+Author: bagan ali <baganeali@gmail.com>
+Date:   Tue Oct 13 12:08:21 2020 +0200
+
+    18 complex angular components
+
+[33mcommit 5d83913ec456cdab61a05ef09f59bad07429708f[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/17_putting_it_all_together_2[m[33m, [m[1;32mmaster[m[33m, [m[1;32m17_putting_it_all_together_2[m[33m)[m
+Author: bagan ali <baganeali@gmail.com>
+Date:   Wed Oct 7 16:40:05 2020 +0200
+
+    17 Putting it all together 2
+
+[33mcommit 6c91eb2ac914a321347b58e346b7d658bc481dce[m[33m ([m[1;31morigin/16_put_it_all_together_1[m[33m, [m[1;32m16_put_it_all_together_1[m[33m)[m
+Author: bagan ali <baganeali@gmail.com>
+Date:   Tue Sep 29 12:40:59 2020 +0200
+
+    16 put it all together 1
+
+[33mcommit 90e97fccf6cd3817267e8dec364105e2fef4a010[m
+Author: bagan ali <baganeali@gmail.com>
+Date:   Tue Sep 29 12:38:01 2020 +0200
+
+    16 put it all together 1
+
+[33mcommit 28a144da106a8b95b6679fdf00ff7932da0457a7[m
+Author: bagan ali <baganeali@gmail.com>
+Date:   Mon Sep 28 18:35:33 2020 +0200
+
+    close #15
+
+[33mcommit a155545b183a15666d73f469b77c7aff220db95e[m[33m ([m[1;32m13_Debug_Angular_Applications[m[33m)[m
+Author: bagan ali <baganeali@gmail.com>
+Date:   Mon Sep 28 18:34:19 2020 +0200
+
+    15 Angular Services
+
+[33mcommit 739876d6fc9ee04c99c08915926bb9e4ff4e341f[m
+Author: bagan ali <baganeali@gmail.com>
+Date:   Thu Sep 24 15:59:51 2020 +0200
+
+    close #12
+
+[33mcommit c50a972d6b40bba97d3aaebeae391e8507aced06[m[33m ([m[1;32m12_angular_form_validation[m[33m)[m
+Author: bagan ali <baganeali@gmail.com>
+Date:   Thu Sep 24 15:57:11 2020 +0200
+
+    12 Angular Form Validation
+
+[33mcommit b6198f9cb72828c5e2fd9ae4feaef156faccfef6[m
+Author: bagan ali <baganeali@gmail.com>
+Date:   Wed Sep 23 17:33:36 2020 +0200
+
+    close #11
+
+[33mcommit 1fb944b3c2a7023db69458461b3e50ddab70f81c[m[33m ([m[1;31morigin/angular_forms_data_binding[m[33m, [m[1;32mangular_forms_data_binding[m[33m)[m
+Author: bagan ali <baganeali@gmail.com>
+Date:   Wed Sep 23 17:26:52 2020 +0200
+
+    Angular Forms and Data Binding
+
+[33mcommit 0f83f902e09aaac90a4c31c1b69deeeac758661d[m
+Author: bagan ali <baganeali@gmail.com>
+Date:   Wed Sep 23 17:24:58 2020 +0200
+
+    Angular Forms and Data Binding
+
+[33mcommit a2d90d76c4ee1dbca95565aef7f1fa22cb037480[m
+Author: bagan ali <baganeali@gmail.com>
+Date:   Wed Sep 23 14:46:23 2020 +0200
+
+    Angular Routing and Routes. close #10
+
+[33mcommit bf897cde357aa785d8f7691dd23e73babb977b8e[m[33m ([m[1;32m10_routing[m[33m)[m
+Author: bagan ali <baganeali@gmail.com>
+Date:   Wed Sep 23 14:41:40 2020 +0200
+
+    Angular Routing and Routes
+
+[33mcommit e482ee7db58404ebe55e6e184dfcab7706702fca[m[33m ([m[1;31morigin/10_routing[m[33m)[m
+Author: bagan ali <baganeali@gmail.com>
+Date:   Wed Sep 23 14:28:19 2020 +0200
+
+    Angular Routing and Routes. close #10
+
+[33mcommit b7b42afdf0b7c9130fa44b214daea15d7667576c[m
+Author: bagan ali <baganeali@gmail.com>
+Date:   Tue Sep 22 17:50:19 2020 +0200
+
+    Angular Component Basics. close #9
+
+[33mcommit 199dad6b26f90c73db4b652252fb3b3e527689c1[m
+Author: bagan ali <baganeali@gmail.com>
+Date:   Tue Sep 22 17:20:43 2020 +0200
+
+    Angular Project/Folder Structure. close #8
+
+[33mcommit 812ee58d4e87ef6bce37a694458d0e32ba474931[m
+Author: bagan ali <baganeali@gmail.com>
+Date:   Tue Sep 22 15:41:33 2020 +0200
+
+    first commit to note it app web project
+
+[33mcommit aa5002a4fe4e22eb72b4aac6646c72a46bdc9001[m
+Author: bagan ali <baganeali@gmail.com>
+Date:   Thu Jul 16 15:41:08 2020 +0200
+
+    initial commit
