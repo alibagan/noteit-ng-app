@@ -10,6 +10,7 @@ import { FeedBackComponent } from './feed-back/feed-back.component';
 import {FormsModule} from '@angular/forms';
 import {HttpClientModule} from '@angular/common/http';
 import { NoteComponent } from './notes/note/note.component';
+import { NoteTextFilterPipe } from './shared/note-text-filter.pipe';
 
 
 const appRoutes: Routes = [
@@ -40,6 +41,7 @@ const appRoutes: Routes = [
     NotesComponent,
     FeedBackComponent,
     NoteComponent,
+    NoteTextFilterPipe,
   ],
   imports: [
     BrowserModule,
